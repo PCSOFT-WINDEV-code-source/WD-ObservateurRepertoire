@@ -1,0 +1,109 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD ObservateurRépertoire
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD ObservateurRépertoire
+    internal_properties : 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
+    configuration_id : 6162354306426622243
+    type : 1
+    generation_name : WD ObservateurRépertoire.exe
+    version :
+     version : VI200066F
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\Oeil.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAADvgYcwoTMz0m08/RxSMVG3++ZJOOzwfxuUGk2My9lX6On3sAZIYZZhifgH/Dk8TeQ3UFl+BYdm5w==
+ elements :
+  identifier : 0x4af449f20011c708
+  elements :
+   -
+     name : TEST_PRINCIPALE
+     identifier : 0x40c9994f0054df2e
+     internal_properties : CAAAAAgAAAAoJhAMu+DI05+JmUjP4Ei6uCUHT4WmHlaN/zHkzkFTTbsHSvMS7rrnvGNdW9sV7eMtNQ==
+     physical_name : .\TEST_PRINCIPALE.wxt
+     type : 17
+   -
+     name : FEN_PRINCIPALE
+     identifier : 0x471a01d600017671
+     internal_properties : CAAAAAgAAAADf3uvHEnh+kQiAtVEbtfF35x6ctyTtg2O/89ytHObrR+R3m+VYzVgJRyGcjKuSr4GDg==
+     physical_name : .\FEN_PRINCIPALE.wdw
+     type : 2
+   -
+     name : Procedures globales de WD ObservateurRépertoire
+     identifier : 0x471a01bb00000ab7
+     internal_properties : CAAAAAgAAAA7F2OnBEHp8vyquu2sx1tZfz6GXma3F+WhvlRxR9i6Rr42degti10InYR+ejq2QrYeJg==
+     physical_name : .\Procedures globales de WD ObservateurRepertoire.wdg
+     type : 7
+  other_elements :
+   -
+     physical_name : .\add.png
+   -
+     physical_name : .\modif.png
+   -
+     physical_name : .\rename.png
+   -
+     physical_name : .\suppr.png
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WDSauvegarde.sty
+ wb_style_sheet : .\WDSauvegarde.wws
+ code_elements :
+  internal_properties : CAAAAAgAAADyAZNtiIVe6oSMUYxQjfZcw+2yGTkuFvJ6uzJXiHarSEG98JEIPCX8HoHlbSOYn+tmm0OyLaEodrj5u41c0lRlL5izjw4dEG/XimfeSr7Nbg==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD ObservateurRépertoire
+     identifier : 0x4af449f30017c766
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WDSauvegarde
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
